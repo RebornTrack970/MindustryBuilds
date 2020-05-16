@@ -1,2 +1,2 @@
 # MindustryBuilds
-Latest builds for Mindustry
+Latest Pre-Alpha builds for Mindustry
